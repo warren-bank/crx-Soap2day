@@ -1,0 +1,189 @@
+--------------------------------------------------------------------------------
+
+https://s2dfree.to/tvlist/
+
+--------------------------------------------------------------------------------
+
+https://s2dfree.to/TczozMDoiNTU5fHw3MS4zOC4xMzEuMTM5fHwxNjQ3MTcwOTUwIjs.html
+
+notes:
+======
+* TV episodes are handled in a way that is nearly identical to movies
+  - the only difference is that the API endpoint to request video/caption URLs is:
+      https://s2dfree.to/home/index/GetEInfoAjax
+    rather than:
+      https://s2dfree.to/home/index/GetMInfoAjax
+
+--------------------------------------------------------------------------------
+
+test #1:
+========
+{
+  var mId  = window.document.getElementById('hId').getAttribute('value')
+  var hIsW = window.document.getElementById('hIsW').getAttribute('value')
+  var u    = window.document.getElementById('divU').innerText.trim()
+  var s    = window.document.getElementById('divS').innerText.trim()
+
+  // mask IP address
+  s = '8.8.8.8'
+
+  var data = {
+    pass:  mId,
+    param: u,
+    extra: s,
+    e2:    hIsW
+  }
+
+  var url = '/home/index/GetEInfoAjax'
+
+  fetch(url, {
+    method: 'POST',
+    redirect: 'follow',
+    cache: 'no-cache',
+    mode: 'cors',
+    credentials: 'same-origin',
+    headers: {
+      'Accept':       'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(data)
+  })
+  .then(response => response.text())
+  .then(console.log)
+}
+
+test #2:
+========
+{
+  var mId  = window.document.getElementById('hId').getAttribute('value')
+  var hIsW = window.document.getElementById('hIsW').getAttribute('value')
+  var u    = window.document.getElementById('divU').innerText.trim()
+  var s    = window.document.getElementById('divS').innerText.trim()
+
+  // mask IP address
+  s = '8.8.8.8'
+
+  var data = {
+    pass:  mId,
+    param: u,
+    extra: s,
+    e2:    hIsW
+  }
+
+  var url = '/home/index/GetEInfoAjax'
+
+  fetch(url, {
+    method: 'POST',
+    redirect: 'follow',
+    cache: 'no-cache',
+    mode: 'cors',
+    credentials: 'same-origin',
+    headers: {
+      'Accept':       'application/json',
+      'Content-Type': 'application/x-www-form-urlencoded'
+    },
+    body: Object.keys(data).map(key => key + '=' + encodeURIComponent(data[key])).join('&')
+  })
+  .then(response => response.text())
+  .then(console.log)
+}
+
+output:
+=======
+{
+  "0": "f1.mrqls.to",
+  "key": true,
+  "val": "https:\/\/f1.mrqls.to\/a\/extra\/t3\/the-marvelous-mrs-maisel\/s04e08.mp4?tok=34726757576B253344494C736C50567062684D7152354B30777150703867627231506130796C583430504630365A5470425A38796B37483525334474583656712D30443439717865486F724A2D37552D4B3141755A6D6738657167432D787A704E356B7A51312D6D4A3431704C3177715670386F656C672533444A7A6A354B35674F353375434A33776144427A724A354C41493155253344513053644370522D4E6E4C644D72686451315057577372646231303325334431434D4D727871516E4C7055&valid=YQoEuspjzoEqvHfvHi3qfw&t=1647178653",
+  "val_bak": "https:\/\/t2g1.mrqls.to\/a\/extra\/t3\/the-marvelous-mrs-maisel\/s04e08.mp4?tok=34726757576B253344494C736C50567062684D7152354B30777150703867627231506130796C583430504630365A5470425A38796B37483525334474583656712D30443439717865486F724A2D37552D4B3141755A6D6738657167432D787A704E356B7A51312D6D4A3431704C3177715670386F656C672533444A7A6A354B35674F353375434A33776144427A724A354C41493155253344513053644370522D4E6E4C644D72686451315057577372646231303325334431434D4D727871516E4C7055&valid=YQoEuspjzoEqvHfvHi3qfw&t=1647178653",
+  "pos": 0,
+  "type": "mp4",
+  "subs": [{
+    "id": 93833,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "Dutch",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/Dutch.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_Dutch.srt",
+    "createtime": 1646987530
+  }, {
+    "id": 93831,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "English",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/English.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_English.srt",
+    "createtime": 1646987525
+  }, {
+    "id": 93835,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "French",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/French.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_French.srt",
+    "createtime": 1646987535
+  }, {
+    "id": 93837,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "Italian",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/Italian.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_Italian.srt",
+    "createtime": 1646987540
+  }, {
+    "id": 93839,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "Portuguese",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/Portuguese.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_Portuguese.srt",
+    "createtime": 1646987545
+  }, {
+    "id": 93841,
+    "movieId": 0,
+    "tvId": 559,
+    "episodeId": 180161,
+    "default": 0,
+    "IsShow": 1,
+    "name": "Spanish",
+    "path": "\/subtitle\/tv\/aToxODAxNjE7\/Spanish.srt",
+    "downlink": "",
+    "source_file_name": "The.Marvelous.Mrs.Maisel.S04E08_Spanish.srt",
+    "createtime": 1646987550
+  }],
+  "prev_epi_title": "[S4E7] Ethan... Esther... Chaim",
+  "prev_epi_url": "\/EczoyMToiMTgwMTYzfHw3MS4zOC4xMzEuMTM5Ijs.html?ap=1",
+  "next_epi_title": null,
+  "next_epi_url": null
+}
+
+resource URLs:
+==============
+https://f1.mrqls.to/a/extra/t3/the-marvelous-mrs-maisel/s04e08.mp4?tok=34726757576B253344494C736C50567062684D7152354B30777150703867627231506130796C583430504630365A5470425A38796B37483525334474583656712D30443439717865486F724A2D37552D4B3141755A6D6738657167432D787A704E356B7A51312D6D4A3431704C3177715670386F656C672533444A7A6A354B35674F353375434A33776144427A724A354C41493155253344513053644370522D4E6E4C644D72686451315057577372646231303325334431434D4D727871516E4C7055&valid=YQoEuspjzoEqvHfvHi3qfw&t=1647178653
+https://s2dfree.to/subtitle/tv/aToxODAxNjE7/English.srt
+
+notes:
+======
+* requests to the API from the browser send content-type: 'application/x-www-form-urlencoded'
+  - apparently, the API endpoint can accept POST data in either format
+
+--------------------------------------------------------------------------------

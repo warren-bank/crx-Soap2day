@@ -1,0 +1,659 @@
+--------------------------------------------------------------------------------
+
+https://s2dfree.to/movielist/
+
+--------------------------------------------------------------------------------
+
+https://s2dfree.to/MczozMjoiMTI4NTJ8fDcxLjM4LjEzMS4xMzl8fDE2NDcxNTUyNDYiOw.html
+
+<script>
+  eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('9.1w="22+2c==";3 12=$(\'#1S\').l();3 1G=$(\'#1G\').l();3 1F=$(\'#1F\').l();3 r=0;3 1T=t;3 B=0;3 17=j;3 1R=t;3 1n=1X=E;3 U=j;3 1H=t;3 1U=t;3 1V=t;3 1O=0;$(7(){3 L=H;3 1d=$(\'#C\').K();4(1d>L){$(\'#C\').I(\'K\',L+\'29\');$(\'#P-y\').2d(\'<a 2h="#">1r y</a>\');$(\'#P-y a\').i(7(){3 1z=$(\'#C\').K();4(1z==L){$(\'#C\').1y({K:1d},"1s");$(\'#P-y a\').u(\'28\');$(\'#1t\').20()}q{$(\'#C\').1y({K:L},"1s");$(\'#P-y a\').u(\'1r y\');$(\'#1t\').1Z()}g j})}});7 1f(){3 s=F.Y("14").Z.11;4(s=="1o"){$(\'#1\').I(\'z-1B\',\'0\');$(\'#1A\').I(\'1C\',\'1M\');$(\'#1D\').u("1q 26 1g");F.Y("14").Z.11="27"}q{$(\'#1\').I(\'z-1B\',\'2\');$(\'#1A\').I(\'1C\',\'23\');$(\'#1D\').u("1q 25 1g");F.Y("14").Z.11="1o"}}$(F).1Y(7(x){4(x.W.1c.1b()!=\'21\')g;4(x.W.1c.1b()==\'1E\'||x.W.1c.1b()==\'2f\')g;3 e=x||2e.x||1k.2g.2a.1k[0];4(!e)g;3 1=9(\'1\');4(1.G()==t)g;4(1n)g;k=1.J();A=e.2b;4(x.W.1N!=\'1\'){1L(A){p 32:e.n();4(1.G()==\'Q\')1.16();q 1.D();v;p 13:e.n();4(1.G()==\'Q\')1.16();q 1.D();v;p 1K:e.n();1.1I();v;p 37:e.n();6=1.w()-5;4(6<0)6=0;1.o(6);v;p 39:e.n();6=1.w()+5;4(6>k)6=k;1.o(6);v;p 1J:e.n();1.1P();v;p 38:e.n();8=1.R()+10;4(8>H)8=H;1.T(8);v;p 1Q:e.n();8=1.R()-10;4(8<0)8=0;1.T(8)}4(A>=1h&&A<=1W){6=(A-1h)*k/10;1.o(6)}}4(A==2i){e.n();1f()}});7 2Z(){3 a=9(\'1\');3 b=a.G();4(b!=\'Q\')g;B++;1j();4(17==j){4(B==M){B=0;2Y()}}q{4(B==5){B=0;1i()}}}7 1i(){4(!17)g;3 19=$(\'#2X\').l();4(19==0)g;3 c=9(\'1\');3 d=c.w();3 e=c.J();3 f=c.G();4(f!=\'Q\'&&f!=\'34\'&&f!=\'33\')g;4(e==0)g;4(d>=(e-31)){d=0}3 1l="2T"+19+":m:"+12;3 1p=30;3 N=2S 2R();N.2W(N.2V()+1p*24*M*M*2U);F.35=1l+"="+3e(d)+";3f="+N.3a()}7 3c(){4(r>0){3 h=0,m=0,s=0;h=1m(r/X);m=1m((r-h*X)/M);s=r-h*X-m*M;3 a=t;4(h==0)a=O(m,2)+":"+O(s,2);q a=h+":"+O(m,2)+":"+O(s,2);$(\'#3b\').u(a);$(\'#1e\').36()}}7 1j(){4(U==j)g;3 1=9(\'1\');4(1.J()==0)g;U=j;4(r>0){1.o(r)}}$(\'#3d\').i(7(){$("#1e").V();3 1=9(\'1\');1.D(E);U=E});$(\'#2u\').i(7(){$("#1e").V();3 1=9(\'1\');1.D(E)});$(\'#2v\').i(7(){3 c=$(\'#2s\').l();3 d=$(\'#15\').l().2t();4(d==\'\'){1a(\'2y 1E 2z 2w 2x 2r.\');g j}$.2l({2m:"2j/2k",2p:{2q:c,2n:12,2o:d,2L:1H},2M:"2J",2K:"2P",2Q:7(){},2N:7(a){3 b=2O("("+a+")");4(b["1w"]){1a(b["l"]);$(\'#15\').l(\'\');$(\'#1x\').1v(\'V\')}q{1a(b["l"]);$(\'#15\').l(\'\');$(\'#1x\').1v(\'V\')}}})});3 S=j;$(\'#18\').i(7(){3 1=9(\'1\');4(S==j){$(\'#18\').u(\'2I\');S=E;1.D()}q{$(\'#18\').u(\'2C\');S=j;1.16()}});$(\'#2D\').i(7(){3 1=9(\'1\');6=1.w()-10;4(6<0)6=0;1.o(6)});$(\'#2A\').i(7(){3 1=9(\'1\');k=1.J();6=1.w()+10;4(6>k)6=k;1.o(6)});$(\'#2B\').i(7(){3 1=9(\'1\');6=1.w()-1u;4(6<0)6=0;1.o(6)});$(\'#2G\').i(7(){3 1=9(\'1\');k=1.J();6=1.w()+1u;4(6>k)6=k;1.o(6)});$(\'#2H\').i(7(){3 1=9(\'1\');1.1I()});$(\'#2E\').i(7(){3 1=9(\'1\');8=1.R()+10;4(8>H)8=H;1.T(8)});$(\'#2F\').i(7(){3 1=9(\'1\');8=1.R()-10;4(8<0)8=0;1.T(8)});',62,202,'|player||var|if||pos|function|vol|jwplayer|||||||return||click|false|duration|val||preventDefault|seek|case|else|position||null|html|break|getPosition|event|more||code|playing_time|wrap|play|true|document|getState|100|css|getDuration|height|slideHeight|60|exp|PrefixInteger|read|playing|getVolume|isPlay|setVolume|IsResume|hide|target|3600|getElementById|style||display|mId||panelDark|txtContent|pause|init_done|btnPS4Play|uid|alert|toLowerCase|tagName|defHeight|PanelStateControl|SwitchLight|Light|48|SavePlayState|ResumePlay|arguments|cookie_name|parseInt|firstTime|block|days|Turn|Read|normal|gradient|600|modal|key|myModal|animate|curHeight|divTurnOff|index|right|TurnText|input|hJumpUrl|hIsW|video_src|setFullscreen|77|70|switch|191px|id|err_cnt|setMute|40|subs|hId|timer_handle|video_inst_data|init_timer_handler|57|firstError|keydown|fadeIn|fadeOut|body|iaoPzwXWQ3yp0jg0wtDmfAsw9eGR|20px||On|Off|none|Close|px|caller|keyCode|VwvpYL41Q|append|window|textarea|callee|href|84|/home/index|submitreport|ajax|url|mpass|content|data|sel|empty|IssueType|trim|btnPlay|btnReport|cannot|be|Your|text|btnPS4Next10S|btnPS4Prev10M|Play|btnPS4Prev10S|btnPS4VolumeUp|btnPS4VolumeDown|btnPS4Next10M|btnPS4FullScreen|Pause|JSON|type|vparam|dataType|success|eval|POST|error|Date|new|soap_|1000|getTime|setTime|hLogin|PlayProcess|RecordPlayTime||120||paused|buffering|cookie|show||||toGMTString|spanPosition|LoadContinuePanel|btnResume|escape|expires'.split('|'),0,{}))
+  eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('$(\'#23\').1V(7(){j J="2b";j 1h,1B=1D 28("(^| )"+J+"=([^;]*)(;|$)");j m=I;f(1h=K.1f.2h(1B))m=2e(1h[2]);j 1H=30;j A=1D 1X();A.25(A.26()+1H*24*1K*1K*1w);f(m==I||m==0)K.1f=J+"="+1J("1")+";1O="+A.1N();r f(m==1)K.1f=J+"="+1J("0")+";1O="+A.1N();2D.2M()});7 1u(){f(1m)v;g=1g(\'g\');q="<6 1T=\'1t:2O;\'>";q+="<6 1T=\'2L-2K:2p\'>2y</6>";q+="<6><6 h=\'k-l-4\'>2u/21</6>	<6 h=\'k-l-8\'>1x/2v</6></6>";q+="<6><6 h=\'k-l-4\'>F</6>				<6 h=\'k-l-8\'>2s</6></6>";q+="<6><6 h=\'k-l-4\'>M</6>				<6 h=\'k-l-8\'>2t/2z</6></6>";q+="<6><6 h=\'k-l-4\'>T</6>				<6 h=\'k-l-8\'>2w t/2x 2m</6></6>";q+="<6><6 h=\'k-l-4\'>2n/2k</6>		<6 h=\'k-l-8\'>+/- 2l 2q 10%</6></6>";q+="<6><6 h=\'k-l-4\'>2r/2o</6>	<6 h=\'k-l-8\'>2I/2J 2P</6></6>";q+="<6><6 h=\'k-l-4\'>0..9</6>			<6 h=\'k-l-8\'>2N Q 10%..2C%</6></6>";q+="</6>";g.2A("/2B/2G/2H.2E",q,I,"2F")}7 X(){g=1g(\'g\');g.1Z({1s:11,z:C["z"],1t:\'2g%\',2i:D,27:"18:9",2a:{},1y:{2c:0.5,29:"#2d"}});g.t("1l",7(){$(\'#2j\').w();$(\'#2f\').w();$(\'#1U\').w();1j=$(\'#1W\').m();f(1j==1)$(\'#22\').w();1Y();1k();f(1m==D)$(\'#3t\').w()});g.t("3x",7(){$("#O").P();$(\'#E\').n(\'3p\');f(1n){1n=D;1u();3F();3H=1C(3C,1w)}});g.t("3E",7(){$(\'#E\').n(\'1x\')});g.t("3N",7(){$("#O").P();$(\'#E\').n(\'3B\')});g.t("3v",7(){$(\'#E\').n(\'3w\')});g.t("H",7(3A){f(1p&&C["1o"]!=\'\'){1p=D;11=C["1o"];X()}r{$(\'#O\').P();$(\'#3z\').w();$(\'#E\').n(\'3y\')}})}7 1k(){f(x==I)v;g=1g(\'g\');S=g.3u();1c(j i=0;i<x.3q;i++){1r={1s:x[i][\'3o\'],3s:x[i][\'3r\'],3K:"1y"};S[0].3J.3I(1r)}g.1A(S)}7 L(){f(U==R){s=$("#12").n().Z();f(s==D){V++;f(V==20){1q(Y);N()}v}1q(Y)}N()}7 N(){u=$("#3M").n().Z();s=$("#12").n().Z();$.15({y:"16/3L",14:{1b:1M,3D:u,3G:s,31:U},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){x=b["x"];32=(b["1v"]>=2)?(b["1v"]-2):0;C=b;11=C["m"];X()}r{j B=b[\'m\'];$(\'#g\').n(B)}}})}$(K).1l(7(){f(1z!=""){B=\'<1E><p><1F>2Y, 2Z 35 36 33 W 34 2S.</p><p>2T 2Q 2R Q W <a h="1i 1i-2W" 2X="2U" 2V="\'+1z+\'">37</a> Q 3i W 3j.</1F></p><1E>\';$(\'#g\').n(B);v}f(U==R){V=0;u=$("#3g").n();y=u+"/3h/3m.n";$("#12").1A(y);Y=1C(7(){L()},3n)}r{L()}});7 3k(){f(1P)v;$.15({y:"16/3l",14:{1b:1M},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){1P=R;3a()}r{3b.B(b["m"])}}})}7 1L(e){j 1I=$(\'#38\').m();f(1I==0){1R("39 3e 3f.");v}$.15({y:"16/1L",14:{1b:e},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){j c="3c"+e;j d=$("#"+c).3d("h");f(b["m"]==1){1c(j i=1;i<=3;i++){$("#"+c+i).1G();$("#"+c+i).1Q("G G-1S")}}r f(b["m"]==0){1c(j i=1;i<=3;i++){$("#"+c+i).1G();$("#"+c+i).1Q("G G-1S-o")}}}r{1R(b["m"])}}})}',62,236,'||||||div|function||||||||if|player|class||var|col|xs|val|html|||tips|else||on||return|show|subs|url|type|exp|msg|video_inst_data|false|t3||fa|error|null|cookie_name|document|InitPlayer||LoadPlayer|PanelStateControl|hide|to|true|playlist||hIsW|err_cnt|this|LoadJwPlayer|init_timer_handler|trim||video_src|divS|eval|data|ajax|/home/index|POST||JSON|success|pass|for|key|dataType|cookie|jwplayer|arr|btn|IsShowNotice|LoadSubtitle|ready|IsMobile|firstTime|val_bak|firstError|clearInterval|caption|file|width|LoadShortcutsButton|pos|1000|Pause|captions|hJumpUrl|load|reg|setInterval|new|br|h4|removeClass|days|uid|escape|60|setFavorites|mId|toGMTString|expires|init_done|addClass|alert|heart|style|divPlayerSelect|click|hIsShowNotice|Date|LoadContinuePanel|setup||Enter|divNotice|btnSwitch||setTime|getTime|aspectratio|RegExp|color|cast|soap_old_player|backgroundOpacity|ffffff|unescape|t2|100|match|autoplay|t1|Down|Volume|light|Up|Left|3px|by|Right|Fullscreen|Mute|Space|Play|Turn|off|Shortcuts|Unmute|addButton|pic|90|location|ico|shortcuts|icon|shortcuts8|Forward|Backward|bottom|padding|reload|Seek|220px|5s|can|navigate|now|You|_0|href|primary|target|Sorry|we||e2|position|have|source|do|not|site|hLogin|please|SavePlayState|layer|i_|attr|login|first|divP|info|watch|video|PlayProcess|playprocessmovie|cek|500|path|Playing|length|name|label|divTurnOff|getPlaylist|complete|Completed|play|Error|PanelError|obj|Loading|RecordPlayTime|param|pause|ResumePlay|extra|timer_handle|push|tracks|kind|GetMInfoAjax|divU|buffer'.split('|'),0,{}))
+</script>
+
+----------------------------------------
+
+test:
+=====
+console.log(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('9.1w="22+2c==";3 12=$(\'#1S\').l();3 1G=$(\'#1G\').l();3 1F=$(\'#1F\').l();3 r=0;3 1T=t;3 B=0;3 17=j;3 1R=t;3 1n=1X=E;3 U=j;3 1H=t;3 1U=t;3 1V=t;3 1O=0;$(7(){3 L=H;3 1d=$(\'#C\').K();4(1d>L){$(\'#C\').I(\'K\',L+\'29\');$(\'#P-y\').2d(\'<a 2h="#">1r y</a>\');$(\'#P-y a\').i(7(){3 1z=$(\'#C\').K();4(1z==L){$(\'#C\').1y({K:1d},"1s");$(\'#P-y a\').u(\'28\');$(\'#1t\').20()}q{$(\'#C\').1y({K:L},"1s");$(\'#P-y a\').u(\'1r y\');$(\'#1t\').1Z()}g j})}});7 1f(){3 s=F.Y("14").Z.11;4(s=="1o"){$(\'#1\').I(\'z-1B\',\'0\');$(\'#1A\').I(\'1C\',\'1M\');$(\'#1D\').u("1q 26 1g");F.Y("14").Z.11="27"}q{$(\'#1\').I(\'z-1B\',\'2\');$(\'#1A\').I(\'1C\',\'23\');$(\'#1D\').u("1q 25 1g");F.Y("14").Z.11="1o"}}$(F).1Y(7(x){4(x.W.1c.1b()!=\'21\')g;4(x.W.1c.1b()==\'1E\'||x.W.1c.1b()==\'2f\')g;3 e=x||2e.x||1k.2g.2a.1k[0];4(!e)g;3 1=9(\'1\');4(1.G()==t)g;4(1n)g;k=1.J();A=e.2b;4(x.W.1N!=\'1\'){1L(A){p 32:e.n();4(1.G()==\'Q\')1.16();q 1.D();v;p 13:e.n();4(1.G()==\'Q\')1.16();q 1.D();v;p 1K:e.n();1.1I();v;p 37:e.n();6=1.w()-5;4(6<0)6=0;1.o(6);v;p 39:e.n();6=1.w()+5;4(6>k)6=k;1.o(6);v;p 1J:e.n();1.1P();v;p 38:e.n();8=1.R()+10;4(8>H)8=H;1.T(8);v;p 1Q:e.n();8=1.R()-10;4(8<0)8=0;1.T(8)}4(A>=1h&&A<=1W){6=(A-1h)*k/10;1.o(6)}}4(A==2i){e.n();1f()}});7 2Z(){3 a=9(\'1\');3 b=a.G();4(b!=\'Q\')g;B++;1j();4(17==j){4(B==M){B=0;2Y()}}q{4(B==5){B=0;1i()}}}7 1i(){4(!17)g;3 19=$(\'#2X\').l();4(19==0)g;3 c=9(\'1\');3 d=c.w();3 e=c.J();3 f=c.G();4(f!=\'Q\'&&f!=\'34\'&&f!=\'33\')g;4(e==0)g;4(d>=(e-31)){d=0}3 1l="2T"+19+":m:"+12;3 1p=30;3 N=2S 2R();N.2W(N.2V()+1p*24*M*M*2U);F.35=1l+"="+3e(d)+";3f="+N.3a()}7 3c(){4(r>0){3 h=0,m=0,s=0;h=1m(r/X);m=1m((r-h*X)/M);s=r-h*X-m*M;3 a=t;4(h==0)a=O(m,2)+":"+O(s,2);q a=h+":"+O(m,2)+":"+O(s,2);$(\'#3b\').u(a);$(\'#1e\').36()}}7 1j(){4(U==j)g;3 1=9(\'1\');4(1.J()==0)g;U=j;4(r>0){1.o(r)}}$(\'#3d\').i(7(){$("#1e").V();3 1=9(\'1\');1.D(E);U=E});$(\'#2u\').i(7(){$("#1e").V();3 1=9(\'1\');1.D(E)});$(\'#2v\').i(7(){3 c=$(\'#2s\').l();3 d=$(\'#15\').l().2t();4(d==\'\'){1a(\'2y 1E 2z 2w 2x 2r.\');g j}$.2l({2m:"2j/2k",2p:{2q:c,2n:12,2o:d,2L:1H},2M:"2J",2K:"2P",2Q:7(){},2N:7(a){3 b=2O("("+a+")");4(b["1w"]){1a(b["l"]);$(\'#15\').l(\'\');$(\'#1x\').1v(\'V\')}q{1a(b["l"]);$(\'#15\').l(\'\');$(\'#1x\').1v(\'V\')}}})});3 S=j;$(\'#18\').i(7(){3 1=9(\'1\');4(S==j){$(\'#18\').u(\'2I\');S=E;1.D()}q{$(\'#18\').u(\'2C\');S=j;1.16()}});$(\'#2D\').i(7(){3 1=9(\'1\');6=1.w()-10;4(6<0)6=0;1.o(6)});$(\'#2A\').i(7(){3 1=9(\'1\');k=1.J();6=1.w()+10;4(6>k)6=k;1.o(6)});$(\'#2B\').i(7(){3 1=9(\'1\');6=1.w()-1u;4(6<0)6=0;1.o(6)});$(\'#2G\').i(7(){3 1=9(\'1\');k=1.J();6=1.w()+1u;4(6>k)6=k;1.o(6)});$(\'#2H\').i(7(){3 1=9(\'1\');1.1I()});$(\'#2E\').i(7(){3 1=9(\'1\');8=1.R()+10;4(8>H)8=H;1.T(8)});$(\'#2F\').i(7(){3 1=9(\'1\');8=1.R()-10;4(8<0)8=0;1.T(8)});',62,202,'|player||var|if||pos|function|vol|jwplayer|||||||return||click|false|duration|val||preventDefault|seek|case|else|position||null|html|break|getPosition|event|more||code|playing_time|wrap|play|true|document|getState|100|css|getDuration|height|slideHeight|60|exp|PrefixInteger|read|playing|getVolume|isPlay|setVolume|IsResume|hide|target|3600|getElementById|style||display|mId||panelDark|txtContent|pause|init_done|btnPS4Play|uid|alert|toLowerCase|tagName|defHeight|PanelStateControl|SwitchLight|Light|48|SavePlayState|ResumePlay|arguments|cookie_name|parseInt|firstTime|block|days|Turn|Read|normal|gradient|600|modal|key|myModal|animate|curHeight|divTurnOff|index|right|TurnText|input|hJumpUrl|hIsW|video_src|setFullscreen|77|70|switch|191px|id|err_cnt|setMute|40|subs|hId|timer_handle|video_inst_data|init_timer_handler|57|firstError|keydown|fadeIn|fadeOut|body|iaoPzwXWQ3yp0jg0wtDmfAsw9eGR|20px||On|Off|none|Close|px|caller|keyCode|VwvpYL41Q|append|window|textarea|callee|href|84|/home/index|submitreport|ajax|url|mpass|content|data|sel|empty|IssueType|trim|btnPlay|btnReport|cannot|be|Your|text|btnPS4Next10S|btnPS4Prev10M|Play|btnPS4Prev10S|btnPS4VolumeUp|btnPS4VolumeDown|btnPS4Next10M|btnPS4FullScreen|Pause|JSON|type|vparam|dataType|success|eval|POST|error|Date|new|soap_|1000|getTime|setTime|hLogin|PlayProcess|RecordPlayTime||120||paused|buffering|cookie|show||||toGMTString|spanPosition|LoadContinuePanel|btnResume|escape|expires'.split('|'),0,{}))
+
+output:
+=======
+jwplayer.key = "iaoPzwXWQ3yp0jg0wtDmfAsw9eGR+VwvpYL41Q==";
+var mId = $('#hId').val();
+var hIsW = $('#hIsW').val();
+var hJumpUrl = $('#hJumpUrl').val();
+var position = 0;
+var timer_handle = null;
+var playing_time = 0;
+var init_done = false;
+var subs = null;
+var firstTime = firstError = true;
+var IsResume = false;
+var video_src = null;
+var video_inst_data = null;
+var init_timer_handler = null;
+var err_cnt = 0;
+$(function() {
+  var slideHeight = 100;
+  var defHeight = $('#wrap').height();
+  if (defHeight > slideHeight) {
+    $('#wrap').css('height', slideHeight + 'px');
+    $('#read-more').append('<a href="#">Read more</a>');
+    $('#read-more a').click(function() {
+      var curHeight = $('#wrap').height();
+      if (curHeight == slideHeight) {
+        $('#wrap').animate({
+          height: defHeight
+        }, "normal");
+        $('#read-more a').html('Close');
+        $('#gradient').fadeOut()
+      } else {
+        $('#wrap').animate({
+          height: slideHeight
+        }, "normal");
+        $('#read-more a').html('Read more');
+        $('#gradient').fadeIn()
+      }
+      return false
+    })
+  }
+});
+
+function SwitchLight() {
+  var s = document.getElementById("panelDark").style.display;
+  if (s == "block") {
+    $('#player').css('z-index', '0');
+    $('#divTurnOff').css('right', '191px');
+    $('#TurnText').html("Turn Off Light");
+    document.getElementById("panelDark").style.display = "none"
+  } else {
+    $('#player').css('z-index', '2');
+    $('#divTurnOff').css('right', '20px');
+    $('#TurnText').html("Turn On Light");
+    document.getElementById("panelDark").style.display = "block"
+  }
+}
+$(document).keydown(function(event) {
+  if (event.target.tagName.toLowerCase() != 'body') return;
+  if (event.target.tagName.toLowerCase() == 'input' || event.target.tagName.toLowerCase() == 'textarea') return;
+  var e = event || window.event || arguments.callee.caller.arguments[0];
+  if (!e) return;
+  var player = jwplayer('player');
+  if (player.getState() == null) return;
+  if (firstTime) return;
+  duration = player.getDuration();
+  code = e.keyCode;
+  if (event.target.id != 'player') {
+    switch (code) {
+      case 32:
+        e.preventDefault();
+        if (player.getState() == 'playing') player.pause();
+        else player.play();
+        break;
+      case 13:
+        e.preventDefault();
+        if (player.getState() == 'playing') player.pause();
+        else player.play();
+        break;
+      case 70:
+        e.preventDefault();
+        player.setFullscreen();
+        break;
+      case 37:
+        e.preventDefault();
+        pos = player.getPosition() - 5;
+        if (pos < 0) pos = 0;
+        player.seek(pos);
+        break;
+      case 39:
+        e.preventDefault();
+        pos = player.getPosition() + 5;
+        if (pos > duration) pos = duration;
+        player.seek(pos);
+        break;
+      case 77:
+        e.preventDefault();
+        player.setMute();
+        break;
+      case 38:
+        e.preventDefault();
+        vol = player.getVolume() + 10;
+        if (vol > 100) vol = 100;
+        player.setVolume(vol);
+        break;
+      case 40:
+        e.preventDefault();
+        vol = player.getVolume() - 10;
+        if (vol < 0) vol = 0;
+        player.setVolume(vol)
+    }
+    if (code >= 48 && code <= 57) {
+      pos = (code - 48) * duration / 10;
+      player.seek(pos)
+    }
+  }
+  if (code == 84) {
+    e.preventDefault();
+    SwitchLight()
+  }
+});
+
+function RecordPlayTime() {
+  var a = jwplayer('player');
+  var b = a.getState();
+  if (b != 'playing') return;
+  playing_time++;
+  ResumePlay();
+  if (init_done == false) {
+    if (playing_time == 60) {
+      playing_time = 0;
+      PlayProcess()
+    }
+  } else {
+    if (playing_time == 5) {
+      playing_time = 0;
+      SavePlayState()
+    }
+  }
+}
+
+function SavePlayState() {
+  if (!init_done) return;
+  var uid = $('#hLogin').val();
+  if (uid == 0) return;
+  var c = jwplayer('player');
+  var d = c.getPosition();
+  var e = c.getDuration();
+  var f = c.getState();
+  if (f != 'playing' && f != 'buffering' && f != 'paused') return;
+  if (e == 0) return;
+  if (d >= (e - 120)) {
+    d = 0
+  }
+  var cookie_name = "soap_" + uid + ":m:" + mId;
+  var days = 30;
+  var exp = new Date();
+  exp.setTime(exp.getTime() + days * 24 * 60 * 60 * 1000);
+  document.cookie = cookie_name + "=" + escape(d) + ";expires=" + exp.toGMTString()
+}
+
+function LoadContinuePanel() {
+  if (position > 0) {
+    var h = 0,
+      m = 0,
+      s = 0;
+    h = parseInt(position / 3600);
+    m = parseInt((position - h * 3600) / 60);
+    s = position - h * 3600 - m * 60;
+    var a = null;
+    if (h == 0) a = PrefixInteger(m, 2) + ":" + PrefixInteger(s, 2);
+    else a = h + ":" + PrefixInteger(m, 2) + ":" + PrefixInteger(s, 2);
+    $('#spanPosition').html(a);
+    $('#PanelStateControl').show()
+  }
+}
+
+function ResumePlay() {
+  if (IsResume == false) return;
+  var player = jwplayer('player');
+  if (player.getDuration() == 0) return;
+  IsResume = false;
+  if (position > 0) {
+    player.seek(position)
+  }
+}
+$('#btnResume').click(function() {
+  $("#PanelStateControl").hide();
+  var player = jwplayer('player');
+  player.play(true);
+  IsResume = true
+});
+$('#btnPlay').click(function() {
+  $("#PanelStateControl").hide();
+  var player = jwplayer('player');
+  player.play(true)
+});
+$('#btnReport').click(function() {
+  var c = $('#IssueType').val();
+  var d = $('#txtContent').val().trim();
+  if (d == '') {
+    alert('Your input text cannot be empty.');
+    return false
+  }
+  $.ajax({
+    url: "/home/index/submitreport",
+    data: {
+      sel: c,
+      mpass: mId,
+      content: d,
+      vparam: video_src
+    },
+    dataType: "JSON",
+    type: "POST",
+    error: function() {},
+    success: function(a) {
+      var b = eval("(" + a + ")");
+      if (b["key"]) {
+        alert(b["val"]);
+        $('#txtContent').val('');
+        $('#myModal').modal('hide')
+      } else {
+        alert(b["val"]);
+        $('#txtContent').val('');
+        $('#myModal').modal('hide')
+      }
+    }
+  })
+});
+var isPlay = false;
+$('#btnPS4Play').click(function() {
+  var player = jwplayer('player');
+  if (isPlay == false) {
+    $('#btnPS4Play').html('Pause');
+    isPlay = true;
+    player.play()
+  } else {
+    $('#btnPS4Play').html('Play');
+    isPlay = false;
+    player.pause()
+  }
+});
+$('#btnPS4Prev10S').click(function() {
+  var player = jwplayer('player');
+  pos = player.getPosition() - 10;
+  if (pos < 0) pos = 0;
+  player.seek(pos)
+});
+$('#btnPS4Next10S').click(function() {
+  var player = jwplayer('player');
+  duration = player.getDuration();
+  pos = player.getPosition() + 10;
+  if (pos > duration) pos = duration;
+  player.seek(pos)
+});
+$('#btnPS4Prev10M').click(function() {
+  var player = jwplayer('player');
+  pos = player.getPosition() - 600;
+  if (pos < 0) pos = 0;
+  player.seek(pos)
+});
+$('#btnPS4Next10M').click(function() {
+  var player = jwplayer('player');
+  duration = player.getDuration();
+  pos = player.getPosition() + 600;
+  if (pos > duration) pos = duration;
+  player.seek(pos)
+});
+$('#btnPS4FullScreen').click(function() {
+  var player = jwplayer('player');
+  player.setFullscreen()
+});
+$('#btnPS4VolumeUp').click(function() {
+  var player = jwplayer('player');
+  vol = player.getVolume() + 10;
+  if (vol > 100) vol = 100;
+  player.setVolume(vol)
+});
+$('#btnPS4VolumeDown').click(function() {
+  var player = jwplayer('player');
+  vol = player.getVolume() - 10;
+  if (vol < 0) vol = 0;
+  player.setVolume(vol)
+});
+
+----------------------------------------
+
+test:
+=====
+console.log(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('$(\'#23\').1V(7(){j J="2b";j 1h,1B=1D 28("(^| )"+J+"=([^;]*)(;|$)");j m=I;f(1h=K.1f.2h(1B))m=2e(1h[2]);j 1H=30;j A=1D 1X();A.25(A.26()+1H*24*1K*1K*1w);f(m==I||m==0)K.1f=J+"="+1J("1")+";1O="+A.1N();r f(m==1)K.1f=J+"="+1J("0")+";1O="+A.1N();2D.2M()});7 1u(){f(1m)v;g=1g(\'g\');q="<6 1T=\'1t:2O;\'>";q+="<6 1T=\'2L-2K:2p\'>2y</6>";q+="<6><6 h=\'k-l-4\'>2u/21</6>	<6 h=\'k-l-8\'>1x/2v</6></6>";q+="<6><6 h=\'k-l-4\'>F</6>				<6 h=\'k-l-8\'>2s</6></6>";q+="<6><6 h=\'k-l-4\'>M</6>				<6 h=\'k-l-8\'>2t/2z</6></6>";q+="<6><6 h=\'k-l-4\'>T</6>				<6 h=\'k-l-8\'>2w t/2x 2m</6></6>";q+="<6><6 h=\'k-l-4\'>2n/2k</6>		<6 h=\'k-l-8\'>+/- 2l 2q 10%</6></6>";q+="<6><6 h=\'k-l-4\'>2r/2o</6>	<6 h=\'k-l-8\'>2I/2J 2P</6></6>";q+="<6><6 h=\'k-l-4\'>0..9</6>			<6 h=\'k-l-8\'>2N Q 10%..2C%</6></6>";q+="</6>";g.2A("/2B/2G/2H.2E",q,I,"2F")}7 X(){g=1g(\'g\');g.1Z({1s:11,z:C["z"],1t:\'2g%\',2i:D,27:"18:9",2a:{},1y:{2c:0.5,29:"#2d"}});g.t("1l",7(){$(\'#2j\').w();$(\'#2f\').w();$(\'#1U\').w();1j=$(\'#1W\').m();f(1j==1)$(\'#22\').w();1Y();1k();f(1m==D)$(\'#3t\').w()});g.t("3x",7(){$("#O").P();$(\'#E\').n(\'3p\');f(1n){1n=D;1u();3F();3H=1C(3C,1w)}});g.t("3E",7(){$(\'#E\').n(\'1x\')});g.t("3N",7(){$("#O").P();$(\'#E\').n(\'3B\')});g.t("3v",7(){$(\'#E\').n(\'3w\')});g.t("H",7(3A){f(1p&&C["1o"]!=\'\'){1p=D;11=C["1o"];X()}r{$(\'#O\').P();$(\'#3z\').w();$(\'#E\').n(\'3y\')}})}7 1k(){f(x==I)v;g=1g(\'g\');S=g.3u();1c(j i=0;i<x.3q;i++){1r={1s:x[i][\'3o\'],3s:x[i][\'3r\'],3K:"1y"};S[0].3J.3I(1r)}g.1A(S)}7 L(){f(U==R){s=$("#12").n().Z();f(s==D){V++;f(V==20){1q(Y);N()}v}1q(Y)}N()}7 N(){u=$("#3M").n().Z();s=$("#12").n().Z();$.15({y:"16/3L",14:{1b:1M,3D:u,3G:s,31:U},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){x=b["x"];32=(b["1v"]>=2)?(b["1v"]-2):0;C=b;11=C["m"];X()}r{j B=b[\'m\'];$(\'#g\').n(B)}}})}$(K).1l(7(){f(1z!=""){B=\'<1E><p><1F>2Y, 2Z 35 36 33 W 34 2S.</p><p>2T 2Q 2R Q W <a h="1i 1i-2W" 2X="2U" 2V="\'+1z+\'">37</a> Q 3i W 3j.</1F></p><1E>\';$(\'#g\').n(B);v}f(U==R){V=0;u=$("#3g").n();y=u+"/3h/3m.n";$("#12").1A(y);Y=1C(7(){L()},3n)}r{L()}});7 3k(){f(1P)v;$.15({y:"16/3l",14:{1b:1M},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){1P=R;3a()}r{3b.B(b["m"])}}})}7 1L(e){j 1I=$(\'#38\').m();f(1I==0){1R("39 3e 3f.");v}$.15({y:"16/1L",14:{1b:e},1e:"19",z:"17",H:7(){},1a:7(a){j b=13("("+a+")");f(b["1d"]){j c="3c"+e;j d=$("#"+c).3d("h");f(b["m"]==1){1c(j i=1;i<=3;i++){$("#"+c+i).1G();$("#"+c+i).1Q("G G-1S")}}r f(b["m"]==0){1c(j i=1;i<=3;i++){$("#"+c+i).1G();$("#"+c+i).1Q("G G-1S-o")}}}r{1R(b["m"])}}})}',62,236,'||||||div|function||||||||if|player|class||var|col|xs|val|html|||tips|else||on||return|show|subs|url|type|exp|msg|video_inst_data|false|t3||fa|error|null|cookie_name|document|InitPlayer||LoadPlayer|PanelStateControl|hide|to|true|playlist||hIsW|err_cnt|this|LoadJwPlayer|init_timer_handler|trim||video_src|divS|eval|data|ajax|/home/index|POST||JSON|success|pass|for|key|dataType|cookie|jwplayer|arr|btn|IsShowNotice|LoadSubtitle|ready|IsMobile|firstTime|val_bak|firstError|clearInterval|caption|file|width|LoadShortcutsButton|pos|1000|Pause|captions|hJumpUrl|load|reg|setInterval|new|br|h4|removeClass|days|uid|escape|60|setFavorites|mId|toGMTString|expires|init_done|addClass|alert|heart|style|divPlayerSelect|click|hIsShowNotice|Date|LoadContinuePanel|setup||Enter|divNotice|btnSwitch||setTime|getTime|aspectratio|RegExp|color|cast|soap_old_player|backgroundOpacity|ffffff|unescape|t2|100|match|autoplay|t1|Down|Volume|light|Up|Left|3px|by|Right|Fullscreen|Mute|Space|Play|Turn|off|Shortcuts|Unmute|addButton|pic|90|location|ico|shortcuts|icon|shortcuts8|Forward|Backward|bottom|padding|reload|Seek|220px|5s|can|navigate|now|You|_0|href|primary|target|Sorry|we||e2|position|have|source|do|not|site|hLogin|please|SavePlayState|layer|i_|attr|login|first|divP|info|watch|video|PlayProcess|playprocessmovie|cek|500|path|Playing|length|name|label|divTurnOff|getPlaylist|complete|Completed|play|Error|PanelError|obj|Loading|RecordPlayTime|param|pause|ResumePlay|extra|timer_handle|push|tracks|kind|GetMInfoAjax|divU|buffer'.split('|'),0,{}))
+
+output:
+=======
+$('#btnSwitch').click(function() {
+  var cookie_name = "soap_old_player";
+  var arr, reg = new RegExp("(^| )" + cookie_name + "=([^;]*)(;|$)");
+  var val = null;
+  if (arr = document.cookie.match(reg)) val = unescape(arr[2]);
+  var days = 30;
+  var exp = new Date();
+  exp.setTime(exp.getTime() + days * 24 * 60 * 60 * 1000);
+  if (val == null || val == 0) document.cookie = cookie_name + "=" + escape("1") + ";expires=" + exp.toGMTString();
+  else if (val == 1) document.cookie = cookie_name + "=" + escape("0") + ";expires=" + exp.toGMTString();
+  location.reload()
+});
+
+function LoadShortcutsButton() {
+  if (IsMobile) return;
+  player = jwplayer('player');
+  tips = "<div style='width:220px;'>";
+  tips += "<div style='padding-bottom:3px'>Shortcuts</div>";
+  tips += "<div><div class='col-xs-4'>Space/Enter</div>	<div class='col-xs-8'>Pause/Play</div></div>";
+  tips += "<div><div class='col-xs-4'>F</div>				<div class='col-xs-8'>Fullscreen</div></div>";
+  tips += "<div><div class='col-xs-4'>M</div>				<div class='col-xs-8'>Mute/Unmute</div></div>";
+  tips += "<div><div class='col-xs-4'>T</div>				<div class='col-xs-8'>Turn on/off light</div></div>";
+  tips += "<div><div class='col-xs-4'>Up/Down</div>		<div class='col-xs-8'>+/- Volume by 10%</div></div>";
+  tips += "<div><div class='col-xs-4'>Right/Left</div>	<div class='col-xs-8'>Forward/Backward 5s</div></div>";
+  tips += "<div><div class='col-xs-4'>0..9</div>			<div class='col-xs-8'>Seek to 10%..90%</div></div>";
+  tips += "</div>";
+  player.addButton("/pic/icon/shortcuts8.ico", tips, null, "shortcuts")
+}
+
+function LoadJwPlayer() {
+  player = jwplayer('player');
+  player.setup({
+    file: video_src,
+    type: video_inst_data["type"],
+    width: '100%',
+    autoplay: false,
+    aspectratio: "18:9",
+    cast: {},
+    captions: {
+      backgroundOpacity: 0.5,
+      color: "#ffffff"
+    }
+  });
+  player.on("ready", function() {
+    $('#t1').show();
+    $('#t2').show();
+    $('#divPlayerSelect').show();
+    IsShowNotice = $('#hIsShowNotice').val();
+    if (IsShowNotice == 1) $('#divNotice').show();
+    LoadContinuePanel();
+    LoadSubtitle();
+    if (IsMobile == false) $('#divTurnOff').show()
+  });
+  player.on("play", function() {
+    $("#PanelStateControl").hide();
+    $('#t3').html('Playing');
+    if (firstTime) {
+      firstTime = false;
+      LoadShortcutsButton();
+      ResumePlay();
+      timer_handle = setInterval(RecordPlayTime, 1000)
+    }
+  });
+  player.on("pause", function() {
+    $('#t3').html('Pause')
+  });
+  player.on("buffer", function() {
+    $("#PanelStateControl").hide();
+    $('#t3').html('Loading')
+  });
+  player.on("complete", function() {
+    $('#t3').html('Completed')
+  });
+  player.on("error", function(obj) {
+    if (firstError && video_inst_data["val_bak"] != '') {
+      firstError = false;
+      video_src = video_inst_data["val_bak"];
+      LoadJwPlayer()
+    } else {
+      $('#PanelStateControl').hide();
+      $('#PanelError').show();
+      $('#t3').html('Error')
+    }
+  })
+}
+
+function LoadSubtitle() {
+  if (subs == null) return;
+  player = jwplayer('player');
+  playlist = player.getPlaylist();
+  for (var i = 0; i < subs.length; i++) {
+    caption = {
+      file: subs[i]['path'],
+      label: subs[i]['name'],
+      kind: "captions"
+    };
+    playlist[0].tracks.push(caption)
+  }
+  player.load(playlist)
+}
+
+function InitPlayer() {
+  if (hIsW == true) {
+    s = $("#divS").html().trim();
+    if (s == false) {
+      err_cnt++;
+      if (err_cnt == 20) {
+        clearInterval(init_timer_handler);
+        LoadPlayer()
+      }
+      return
+    }
+    clearInterval(init_timer_handler)
+  }
+  LoadPlayer()
+}
+
+function LoadPlayer() {
+  u = $("#divU").html().trim();
+  s = $("#divS").html().trim();
+  $.ajax({
+    url: "/home/index/GetMInfoAjax",
+    data: {
+      pass: mId,
+      param: u,
+      extra: s,
+      e2: hIsW
+    },
+    dataType: "JSON",
+    type: "POST",
+    error: function() {},
+    success: function(a) {
+      var b = eval("(" + a + ")");
+      if (b["key"]) {
+        subs = b["subs"];
+        position = (b["pos"] >= 2) ? (b["pos"] - 2) : 0;
+        video_inst_data = b;
+        video_src = video_inst_data["val"];
+        LoadJwPlayer()
+      } else {
+        var msg = b['val'];
+        $('#player').html(msg)
+      }
+    }
+  })
+}
+$(document).ready(function() {
+  if (hJumpUrl != "") {
+    msg = '<br><p><h4>Sorry, we do not have this source now.</p><p>You can navigate to this <a class="btn btn-primary" target="_0" href="' + hJumpUrl + '">site</a> to watch this video.</h4></p><br>';
+    $('#player').html(msg);
+    return
+  }
+  if (hIsW == true) {
+    err_cnt = 0;
+    u = $("#divP").html();
+    url = u + "/info/cek.html";
+    $("#divS").load(url);
+    init_timer_handler = setInterval(function() {
+      InitPlayer()
+    }, 500)
+  } else {
+    InitPlayer()
+  }
+});
+
+function PlayProcess() {
+  if (init_done) return;
+  $.ajax({
+    url: "/home/index/playprocessmovie",
+    data: {
+      pass: mId
+    },
+    dataType: "JSON",
+    type: "POST",
+    error: function() {},
+    success: function(a) {
+      var b = eval("(" + a + ")");
+      if (b["key"]) {
+        init_done = true;
+        SavePlayState()
+      } else {
+        layer.msg(b["val"])
+      }
+    }
+  })
+}
+
+function setFavorites(e) {
+  var uid = $('#hLogin').val();
+  if (uid == 0) {
+    alert("please login first.");
+    return
+  }
+  $.ajax({
+    url: "/home/index/setFavorites",
+    data: {
+      pass: e
+    },
+    dataType: "JSON",
+    type: "POST",
+    error: function() {},
+    success: function(a) {
+      var b = eval("(" + a + ")");
+      if (b["key"]) {
+        var c = "i_" + e;
+        var d = $("#" + c).attr("class");
+        if (b["val"] == 1) {
+          for (var i = 1; i <= 3; i++) {
+            $("#" + c + i).removeClass();
+            $("#" + c + i).addClass("fa fa-heart")
+          }
+        } else if (b["val"] == 0) {
+          for (var i = 1; i <= 3; i++) {
+            $("#" + c + i).removeClass();
+            $("#" + c + i).addClass("fa fa-heart-o")
+          }
+        }
+      } else {
+        alert(b["val"])
+      }
+    }
+  })
+}
+
+--------------------------------------------------------------------------------
+
+curl 'https://s2dfree.to/home/index/GetMInfoAjax' \
+  -H 'origin: https://s2dfree.to' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'referer: https://s2dfree.to/MczozMjoiMTI4NTJ8fDcxLjM4LjEzMS4xMzl8fDE2NDcxNTUyNDYiOw.html' \
+  -H 'authority: s2dfree.to' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  --data 'pass=aToxMjg1Mjs&param=https%3A%2F%2Fq5.mrqls.to&extra=8.8.8.8&e2=1' \
+  --compressed
+
+"{\"0\":\"q5.mrqls.to\",\"key\":true,\"val\":\"https:\\\/\\\/q5.mrqls.to\\\/a\\\/extra\\\/m2\\\/2022\\\/Blacklight.2022.mp4?tok=757548562D6752444D626D634678455945657250667243582D675A4243646A67507542544765725864766E4E4F343550377269516273335277656C41487135684444596778723775447169542D67704E307547354D7742664F5962475868543030323666253344755770643671613775317A4E636D634C7845674859572533444F34576B39766F52307357354A3877513670717A4D76443030325A2533444275474A4C7348784566426A4D635755497A544D4A656D6657326C7378774D4644656A67567542624A&valid=xSfmhx1VNfKELNaRsnlnYg&t=1647170608\",\"val_bak\":\"https:\\\/\\\/bm1.mrqls.to\\\/a\\\/extra\\\/m2\\\/2022\\\/Blacklight.2022.mp4?tok=757548562D6752444D626D634678455945657250667243582D675A4243646A67507542544765725864766E4E4F343550377269516273335277656C41487135684444596778723775447169542D67704E307547354D7742664F5962475868543030323666253344755770643671613775317A4E636D634C7845674859572533444F34576B39766F52307357354A3877513670717A4D76443030325A2533444275474A4C7348784566426A4D635755497A544D4A656D6657326C7378774D4644656A67567542624A&valid=xSfmhx1VNfKELNaRsnlnYg&t=1647170608\",\"pos\":0,\"type\":\"mp4\",\"subs\":[{\"id\":93028,\"movieId\":12852,\"tvId\":0,\"episodeId\":0,\"default\":0,\"IsShow\":1,\"name\":\"English\",\"path\":\"\\\/subtitle\\\/movie\\\/aToxMjg1Mjs\\\/English.srt\",\"downlink\":\"\",\"source_file_name\":\"Blacklight.2022.1080p.WEB-DL.DD5.1.H.264-EVO.srt\",\"createtime\":1646294783}]}"
+
+--------------------------------------------------------------------------------
+
+test #1:
+========
+{
+  var mId  = window.document.getElementById('hId').getAttribute('value')
+  var hIsW = window.document.getElementById('hIsW').getAttribute('value')
+  var u    = window.document.getElementById('divU').innerText.trim()
+  var s    = window.document.getElementById('divS').innerText.trim()
+
+  // mask IP address
+  s = '8.8.8.8'
+
+  var data = {
+    pass:  mId,
+    param: u,
+    extra: s,
+    e2:    hIsW
+  }
+
+  var url = '/home/index/GetMInfoAjax'
+
+  fetch(url, {
+    method: 'POST',
+    redirect: 'follow',
+    cache: 'no-cache',
+    mode: 'cors',
+    credentials: 'same-origin',
+    headers: {
+      'Accept':       'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(data)
+  })
+  .then(response => response.text())
+  .then(console.log)
+}
+
+test #2:
+========
+{
+  var mId  = window.document.getElementById('hId').getAttribute('value')
+  var hIsW = window.document.getElementById('hIsW').getAttribute('value')
+  var u    = window.document.getElementById('divU').innerText.trim()
+  var s    = window.document.getElementById('divS').innerText.trim()
+
+  // mask IP address
+  s = '8.8.8.8'
+
+  var data = {
+    pass:  mId,
+    param: u,
+    extra: s,
+    e2:    hIsW
+  }
+
+  var url = '/home/index/GetMInfoAjax'
+
+  fetch(url, {
+    method: 'POST',
+    redirect: 'follow',
+    cache: 'no-cache',
+    mode: 'cors',
+    credentials: 'same-origin',
+    headers: {
+      'Accept':       'application/json',
+      'Content-Type': 'application/x-www-form-urlencoded'
+    },
+    body: Object.keys(data).map(key => key + '=' + encodeURIComponent(data[key])).join('&')
+  })
+  .then(response => response.text())
+  .then(console.log)
+}
+
+output:
+=======
+{
+  "0": "q14.mrqls.to",
+  "key": true,
+  "val": "https:\/\/q14.mrqls.to\/a\/extra\/m2\/2022\/Blacklight.2022.mp4?tok=504E364C32526E6A304E444D795359453656663277513546654D306E6A4D6154355158483550487839694C3942686532676259396C4C6B48564B4F6B7867615531656E4D686963516E54624669504A74516433736A4E7158444E376A384F796B68664D4233694F617263634B626159586B4E6154253344515850384A79687368385230694B3155654D6D625A5449635A64557A676D6E6D5A6D687A6972317353376C6F4F7042654E454C704E3525334441544745355A475A696A626B32556252724F704E6D&valid=x0KH9qKhA1uBPAJ7WnIt7w&t=1647178318",
+  "val_bak": "https:\/\/bm1.mrqls.to\/a\/extra\/m2\/2022\/Blacklight.2022.mp4?tok=504E364C32526E6A304E444D795359453656663277513546654D306E6A4D6154355158483550487839694C3942686532676259396C4C6B48564B4F6B7867615531656E4D686963516E54624669504A74516433736A4E7158444E376A384F796B68664D4233694F617263634B626159586B4E6154253344515850384A79687368385230694B3155654D6D625A5449635A64557A676D6E6D5A6D687A6972317353376C6F4F7042654E454C704E3525334441544745355A475A696A626B32556252724F704E6D&valid=x0KH9qKhA1uBPAJ7WnIt7w&t=1647178318",
+  "pos": 0,
+  "type": "mp4",
+  "subs": [{
+    "id": 93028,
+    "movieId": 12852,
+    "tvId": 0,
+    "episodeId": 0,
+    "default": 0,
+    "IsShow": 1,
+    "name": "English",
+    "path": "\/subtitle\/movie\/aToxMjg1Mjs\/English.srt",
+    "downlink": "",
+    "source_file_name": "Blacklight.2022.1080p.WEB-DL.DD5.1.H.264-EVO.srt",
+    "createtime": 1646294783
+  }]
+}
+
+resource URLs:
+==============
+https://q14.mrqls.to/a/extra/m2/2022/Blacklight.2022.mp4?tok=504E364C32526E6A304E444D795359453656663277513546654D306E6A4D6154355158483550487839694C3942686532676259396C4C6B48564B4F6B7867615531656E4D686963516E54624669504A74516433736A4E7158444E376A384F796B68664D4233694F617263634B626159586B4E6154253344515850384A79687368385230694B3155654D6D625A5449635A64557A676D6E6D5A6D687A6972317353376C6F4F7042654E454C704E3525334441544745355A475A696A626B32556252724F704E6D&valid=x0KH9qKhA1uBPAJ7WnIt7w&t=1647178318
+https://s2dfree.to/subtitle/movie/aToxMjg1Mjs/English.srt
+
+notes:
+======
+* requests to the API from the browser send content-type: 'application/x-www-form-urlencoded'
+  - apparently, the API endpoint can accept POST data in either format
+
+--------------------------------------------------------------------------------
