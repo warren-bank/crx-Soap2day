@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Soap2day
 // @description  Watch videos in external player.
-// @version      1.0.0
+// @version      1.0.1
 // @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:soap2day\.(?:to|ac|sh|cx)|s2dfree\.(?:to|cc|de|is|nl))\/.*$/
 // @icon         https://soap2day.ac/favicon.ico
 // @run-at       document-end
@@ -33,6 +33,35 @@ var user_options = {
     "force_http":                   true,
     "force_https":                  false
   }
+}
+
+// ----------------------------------------------------------------------------- helpers (dom)
+
+var get_element_attribute = function(id, attr) {
+  var el = unsafeWindow.document.getElementById(id)
+
+  try {
+    return el.getAttribute(attr)
+  }
+  catch(e) {}
+  return ''
+}
+
+var get_element_text = function(id) {
+  var el = unsafeWindow.document.getElementById(id)
+  var regex = {
+    whitespace: /[\r\n\t]+/g
+  }
+
+  try {
+    return el.innerText.trim().replace(regex.whitespace, ' ')
+  }
+  catch(e) {}
+  try {
+    return el.innerHTML.trim().replace(regex.whitespace, ' ')
+  }
+  catch(e) {}
+  return ''
 }
 
 // ----------------------------------------------------------------------------- helpers (xhr)
@@ -386,10 +415,10 @@ var download_video_url = function(xhr_data, callback) {
 
   var url, headers, json_callback
 
-  url = {
-    movie:   resolve_url('/home/index/GetMInfoAjax'),
-    episode: resolve_url('/home/index/GetEInfoAjax')
-  }
+  url = is_episode_in_series()
+    ? resolve_url('/home/index/GetEInfoAjax')
+    : resolve_url('/home/index/GetMInfoAjax')
+
   headers = null
 
   json_callback = function(json) {
@@ -407,8 +436,16 @@ var download_video_url = function(xhr_data, callback) {
     callback(video_url, video_type, caption_url)
   }
 
-  download_json(url.movie,   headers, xhr_data, json_callback)
-  download_json(url.episode, headers, xhr_data, json_callback)
+  download_json(url, headers, xhr_data, json_callback)
+}
+
+// -------------------------------------
+
+var is_episode_in_series = function() {
+  var title = get_element_text('t1')
+  var regex = /^\[S\d+E\d+\].*$/
+
+  return regex.test(title)
 }
 
 // -------------------------------------
@@ -455,13 +492,10 @@ var resolve_url = function(url) {
 
 var init = function() {
   try {
-    var mId  = unsafeWindow.document.getElementById('hId').getAttribute('value')
-    var hIsW = unsafeWindow.document.getElementById('hIsW').getAttribute('value')
-    var u    = unsafeWindow.document.getElementById('divU').innerText.trim()
-    var s    = unsafeWindow.document.getElementById('divS').innerText.trim()
-
-    // mask IP address
-    s = '8.8.8.8'
+    var mId  = get_element_attribute('hId',  'value')
+    var hIsW = get_element_attribute('hIsW', 'value')
+    var u    = get_element_text('divU')
+    var s    = get_element_text('divS') // whitelist IP address of client for access to video file
 
     var xhr_data = {
       pass:  mId,
