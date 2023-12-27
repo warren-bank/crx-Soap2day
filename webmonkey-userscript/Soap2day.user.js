@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Soap2day
 // @description  Watch videos in external player.
-// @version      1.0.1
-// @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:soap2day\.(?:to|ac|sh|cx)|s2dfree\.(?:to|cc|de|is|nl))\/.*$/
-// @icon         https://soap2day.ac/favicon.ico
+// @version      1.0.2
+// @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:soap2day\.(?:to|ac|sh|cx|day|rest|store)|s2dfree\.(?:to|cc|de|is|nl)|soap2dayhd\.(?:co)|soap2dayto\.(?:day)|ssoap2day\.(?:to)|thesoap2day\.(?:com))\/.*$/
+// @icon         https://soap2day.day/favicon.ico
 // @run-at       document-end
 // @grant        unsafeWindow
 // @homepage     https://github.com/warren-bank/crx-Soap2day/tree/webmonkey-userscript/es5
